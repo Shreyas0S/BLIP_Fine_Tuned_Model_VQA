@@ -1,4 +1,4 @@
-# VR Mini Project 2
+# BLIP Fine-Tuned Model for VQA
 ---
 Below is the setup required to run inference.py.  
 The inference.py will run a BLIP (Bootstrapping Language-Image Pretraining) model fine-tuned for Visual Question Answering (VQA).
